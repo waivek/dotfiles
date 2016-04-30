@@ -1,0 +1,25 @@
+<templateSet group="VivekBose">
+  <template name="while" value="while ($CONDITION$) {&#10;&#10;}" description="While loop initialized as true" toReformat="false" toShortenFQNames="true">
+    <variable name="CONDITION" expression="" defaultValue="true" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="false" />
+      <option name="JAVA_STATEMENT" value="true" />
+      <option name="JAVA_EXPRESSION" value="false" />
+      <option name="JAVA_DECLARATION" value="false" />
+      <option name="JAVA_COMMENT" value="false" />
+      <option name="JAVA_STRING" value="false" />
+      <option name="COMPLETION" value="false" />
+    </context>
+  </template>
+  <template name="pr" value="System.out.println(&quot;$var$ = &quot; + $var$)" description="print a variable" toReformat="false" toShortenFQNames="true">
+    <variable name="var" expression="variableOfType(Type)" defaultValue="placeholder" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="pri" value="System.out.println($END$)" description="print anything" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_STATEMENT" value="true" />
+    </context>
+  </template>
+</templateSet>

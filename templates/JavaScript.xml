@@ -1,0 +1,6 @@
+<templateSet group="JavaScript">
+  <template name="con" value="console.log(&quot;$MESSAGE$&quot;);" description="inesrts a print statement" toReformat="false" toShortenFQNames="true">
+    <variable name="MESSAGE" expression="" defaultValue="" alwaysStopAt="true" />
+    <context />
+  </template>
+</templateSet>
