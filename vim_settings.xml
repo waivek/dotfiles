@@ -38,11 +38,10 @@
       <file name="C:/Program Files/Java/jdk1.8.0_51/src.zip!/java/io/PrintWriter.java" timestamp="1456297821391">
         <mark key="'" line="1041" column="19" />
       </file>
-      <file name="X:/ReactiveReminder/src/ReminderObserver.java" timestamp="1461705213028">
-        <mark key="[" line="10" column="36" />
-        <mark key="]" line="10" column="36" />
-        <mark key="." line="10" column="36" />
-        <mark key="^" line="10" column="36" />
+      <file name="X:/ReactiveReminder/src/ReminderObserver.java" timestamp="1462108017160">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/HelloWorld/src/com/company/JavaFX8.java" timestamp="1460018787763">
         <mark key="[" line="31" column="44" />
@@ -104,8 +103,8 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="X:/ReactiveReminder/src/LiveTemplates.java" timestamp="1462107214548">
-        <mark key="'" line="1" column="0" />
+      <file name="X:/ReactiveReminder/src/LiveTemplates.java" timestamp="1462107731258">
+        <mark key="'" line="9" column="25" />
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
@@ -128,7 +127,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="38" column="12" filename="X:/Dropbox/js/spanish/public/javascripts/test.js" />
       <jump line="4" column="2" filename="X:/Dropbox/js/spanish/public/javascripts/test.js" />
       <jump line="30" column="18" filename="X:/Dropbox/java/src/com/company/MixedFraction.java" />
       <jump line="2" column="0" filename="X:/Dropbox/java/src/com/company/MixedFraction.java" />
@@ -228,6 +226,7 @@
       <jump line="21" column="0" filename="X:/ReactiveReminder/src/LiveTemplates.java" />
       <jump line="4" column="2" filename="X:/ReactiveReminder/src/LiveTemplates.java" />
       <jump line="1" column="0" filename="X:/ReactiveReminder/src/LiveTemplates.java" />
+      <jump line="9" column="25" filename="X:/ReactiveReminder/src/LiveTemplates.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -239,49 +238,49 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGtqCg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIHllczsK</text>
       </register>
       <register name="-" type="4">
-        <text>i</text>
+        <text>main</text>
       </register>
       <register name="/" type="4">
         <text>main</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAodHJ1ZSkgewoKICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBtYWluIChTdHJpbmcgYXJnc1tdKSB7CgogICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGtqCg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIHllczsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAodHJ1ZSkgewoKICAgICAgICB9CiAgICAgICAgaWYgKHRydWUpIHsKICAgICAgICAgICAgaWYgKHRydWUpIHsKCiAgICAgICAgICAgIH0KCiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgIGFkc2YK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFzZGYK</text>
+        <text encoding="base64">ICAgIGtqCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBhc2RmCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAodHJ1ZSkgewoKICAgICAgICB9CiAgICAgICAgaWYgKHRydWUpIHsKICAgICAgICAgICAgaWYgKHRydWUpIHsKCiAgICAgICAgICAgIH0KCiAgICAgICAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGFzZGYK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">YXNkZmFzZGYK</text>
+        <text encoding="base64">ICAgICAgICBhc2RmCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwcmkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB3aGlsZQo=</text>
+        <text encoding="base64">YXNkZmFzZGYK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMK</text>
+        <text encoding="base64">ICAgICAgICBwcmkK</text>
       </register>
       <register name=":" type="4">
-        <text>map ]]</text>
+        <text>action MethodUp</text>
       </register>
     </registers>
     <search>
@@ -314,26 +313,26 @@
         <entry>main</entry>
       </history-search>
       <history-cmd>
-        <entry>set vim-surround</entry>
-        <entry>set surround</entry>
-        <entry>set incsearch</entry>
-        <entry>action Tool_External Tools_Vim</entry>
-        <entry>.put=&quot;&quot;</entry>
-        <entry>.-1put=&quot;&quot;</entry>
         <entry>action warning</entry>
         <entry>action Warn</entry>
         <entry>actionlist Warn</entry>
         <entry>actionlist Goto</entry>
         <entry>actionlist Error</entry>
-        <entry>source C:/Users/Toshiba PC/.ideavimrc</entry>
-        <entry>echo &quot;Reloaded .ideavimrc&quot;</entry>
-        <entry>action GotoNextError</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gR290b05leHRFcnJvcg==</entry>
-        <entry>action GotoPreviousError</entry>
         <entry>write</entry>
         <entry>namp ]]</entry>
         <entry>nmap ]]</entry>
         <entry>map ]]</entry>
+        <entry>action GotoPreviousError</entry>
+        <entry>action GotoNextError</entry>
+        <entry>action Method</entry>
+        <entry>actionlist NextMethod</entry>
+        <entry>actionlist Next</entry>
+        <entry>actionlist Method</entry>
+        <entry>source C:/Users/Toshiba PC/.ideavimrc</entry>
+        <entry>echo &quot;Reloaded .ideavimrc&quot;</entry>
+        <entry>action MethodDown</entry>
+        <entry>action MethodUp</entry>
       </history-cmd>
       <history-expr />
       <history-input />
