@@ -101,11 +101,11 @@
         <mark key="]" line="31" column="45" />
         <mark key="." line="31" column="45" />
       </file>
-      <file name="X:/ExamPrep/src/Enums.java" timestamp="1463718200054">
-        <mark key="[" line="25" column="36" />
-        <mark key="]" line="27" column="41" />
-        <mark key="." line="27" column="41" />
-        <mark key="^" line="27" column="41" />
+      <file name="X:/ExamPrep/src/Enums.java" timestamp="1463726597481">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="27" column="7" />
+        <mark key="." line="27" column="7" />
+        <mark key="^" line="27" column="7" />
       </file>
       <file name="X:/ExamPrep/src/sample/Generics.java" timestamp="1463717755448">
         <mark key="[" line="7" column="17" />
@@ -287,11 +287,11 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmFmeC5hcHBsaWNhdGlvbi5BcHBsaWNhdGlvbjsKaW1wb3J0IGphdmFmeC5zY2VuZS5sYXlvdXQuQm9yZGVyUGFuZTsKaW1wb3J0IGphdmFmeC5zY2VuZS5sYXlvdXQuRmxvd1BhbmU7CmltcG9ydCBqYXZhZnguc2NlbmUubGF5b3V0LkdyaWRQYW5lOwppbXBvcnQgamF2YWZ4LnNjZW5lLnNoYXBlLlJlY3RhbmdsZTsKaW1wb3J0IGphdmFmeC5zdGFnZS5TdGFnZTsKCnB1YmxpYyBjbGFzcyBDYW52YXNFeGFtcGxlCgogICAgcHVibGljIHN0YXRpYyB2b2lkIG1haW4oU3RyaW5nIC4uLiBhcmdzKSB7CiAgICAgICAgbGF1bmNoKGFyZ3MpOwogICAgfQoKICAgIEBPdmVycmlkZQogICAgcHVibGljIHZvaWQgc3RhcnQoU3RhZ2UgcHJpbWFyeVN0YWdlKSB7CiAgICAgICAgbmV3IEJvcmRlclBhbmUoKQoKICAgIH0KfQo=</text>
+      <register name="&quot;" type="4">
+        <text>+</text>
       </register>
       <register name="-" type="4">
-        <text>Gra</text>
+        <text>+</text>
       </register>
       <register name="/" type="4">
         <text>main</text>
@@ -299,38 +299,38 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oeC5jYXBhY2l0eSgpKTsK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmFmeC5hcHBsaWNhdGlvbi5BcHBsaWNhdGlvbjsKaW1wb3J0IGphdmFmeC5zY2VuZS5sYXlvdXQuQm9yZGVyUGFuZTsKaW1wb3J0IGphdmFmeC5zY2VuZS5sYXlvdXQuRmxvd1BhbmU7CmltcG9ydCBqYXZhZnguc2NlbmUubGF5b3V0LkdyaWRQYW5lOwppbXBvcnQgamF2YWZ4LnNjZW5lLnNoYXBlLlJlY3RhbmdsZTsKaW1wb3J0IGphdmFmeC5zdGFnZS5TdGFnZTsKCnB1YmxpYyBjbGFzcyBDYW52YXNFeGFtcGxlCgogICAgcHVibGljIHN0YXRpYyB2b2lkIG1haW4oU3RyaW5nIC4uLiBhcmdzKSB7CiAgICAgICAgbGF1bmNoKGFyZ3MpOwogICAgfQoKICAgIEBPdmVycmlkZQogICAgcHVibGljIHZvaWQgc3RhcnQoU3RhZ2UgcHJpbWFyeVN0YWdlKSB7CiAgICAgICAgbmV3IEJvcmRlclBhbmUoKQoKICAgIH0KfQo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">ICAgICAgICBpbnQgYVtdID0gezEsIDIsIDMsIDQsIDV9OwogICAgICAgIGludCBiW10gPSBhOwogICAgICAgIGJbMV0gPSA5OTsKICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oYVsxXSk7</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBuZXcgR3JpZFBhbmUoKQo=</text>
+        <text encoding="base64">ICAgICAgICBNb250aE5hbWVzIG0gPSBuZXcgTW9udGhOYW1lcygwYjEwKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBuZXcgRmxvd1BhbmUoamspCg==</text>
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIHN0YXRpYyBpbnQgeDsK</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBuZXcK</text>
+      <register name="4" type="4">
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgYSA9ICJIZWxsbyI7CiAgICAgICAgU3RyaW5nIGIgPSAiSGVsbG8iOw==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBuZXcgUmVjdGFuZ2xlKDEsIDEsIDEsIDEpLnNldEFyY0hlaWdodCg0KS5zZXQ7Cg==</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oYiA9PSBhKTsK</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">cHVibGljIGNsYXNzIEltbXV0YWJsZSB7Cn0K</text>
+      <register name="6" type="4">
+        <text encoding="base64">ICAgICAgICBCaWdEZWNpbWFsIGE7CiAgICAgICAgYSA9IG5ldyBCaWdEZWNpbWFsKCIxMjM0NSIpOwogICAgICAgIEJpZ0RlY2ltYWwgYiA9IG5ldyBCaWdEZWNpbWFsKCIyIik7CiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKGEubXVsdGlwbHkoYikpOw==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">cHVibGljIGNsYXNzIEEgewp9Cg==</text>
+        <text encoding="base64">aW1wb3J0IGphdmFmeC5hcHBsaWNhdGlvbi5BcHBsaWNhdGlvbjsKaW1wb3J0IGphdmFmeC5zY2VuZS5sYXlvdXQuQm9yZGVyUGFuZTsKaW1wb3J0IGphdmFmeC5zY2VuZS5sYXlvdXQuRmxvd1BhbmU7CmltcG9ydCBqYXZhZnguc2NlbmUubGF5b3V0LkdyaWRQYW5lOwppbXBvcnQgamF2YWZ4LnNjZW5lLnNoYXBlLlJlY3RhbmdsZTsKaW1wb3J0IGphdmFmeC5zdGFnZS5TdGFnZTsKCnB1YmxpYyBjbGFzcyBDYW52YXNFeGFtcGxlCgogICAgcHVibGljIHN0YXRpYyB2b2lkIG1haW4oU3RyaW5nIC4uLiBhcmdzKSB7CiAgICAgICAgbGF1bmNoKGFyZ3MpOwogICAgfQoKICAgIEBPdmVycmlkZQogICAgcHVibGljIHZvaWQgc3RhcnQoU3RhZ2UgcHJpbWFyeVN0YWdlKSB7CiAgICAgICAgbmV3IEJvcmRlclBhbmUoKQoKICAgIH0KfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBCaWcK</text>
+        <text encoding="base64">ICAgICAgICBuZXcgR3JpZFBhbmUoKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBJbnRlZ2VyIHggPSBuZXcgSW50ZWdlcig1KTsKICAgICAgICBJbnRlZ2VyIHkgPSBuZXcgSW50ZWdlcigiNSIpOwogICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbih4ID09IHkpOwogICAgICAgIEludGVnZXIgeiA9IDU7CiAgICAgICAgSW50ZWdlciB3ID0gNTsKICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oeiA9PSB3KTsK</text>
+        <text encoding="base64">ICAgICAgICBuZXcgRmxvd1BhbmUoamspCg==</text>
       </register>
       <register name=":" type="4">
-        <text>write</text>
+        <text>action RunClass</text>
       </register>
     </registers>
     <search>
@@ -363,7 +363,6 @@
         <entry>main</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5hY3Rpb24gR290b05leHRFcnJvcg==</entry>
         <entry>namp ]]</entry>
         <entry>nmap ]]</entry>
         <entry>map ]]</entry>
@@ -381,8 +380,9 @@
         <entry>action GotoPreviousError</entry>
         <entry>w</entry>
         <entry>action RenameElement</entry>
-        <entry>action RunClass</entry>
+        <entry>wrte</entry>
         <entry>write</entry>
+        <entry>action RunClass</entry>
       </history-cmd>
       <history-expr />
       <history-input />
