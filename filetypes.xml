@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="16">
     <extensionMap>
       <mapping pattern="File" type="JAVA" />
+      <mapping pattern="Comparable" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
