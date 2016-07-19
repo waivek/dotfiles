@@ -29,6 +29,12 @@
       <file name="/a.dummy" timestamp="1461997726343">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="X:/Dropbox/java/Amazon/src/array.java" timestamp="1468952814749">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="1" column="2" />
+        <mark key="." line="1" column="0" />
+      </file>
       <file name="X:/ExamPrep/src/Graph.java" timestamp="1463719594128">
         <mark key="[" line="13" column="13" />
         <mark key="]" line="13" column="13" />
@@ -150,6 +156,13 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="X:/Dropbox/java/Amazon/src/Array.java" timestamp="1468953891115">
+        <mark key="'" line="4" column="28" />
+        <mark key="[" line="14" column="16" />
+        <mark key="]" line="14" column="17" />
+        <mark key="^" line="14" column="17" />
+        <mark key="." line="14" column="17" />
+      </file>
       <file name="X:/ExamPrep/src/sample/Comparable" timestamp="1463717716555">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
@@ -177,14 +190,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1" column="0" filename="X:/Dropbox/java/src/com/company/Point.java" />
-      <jump line="4" column="4" filename="X:/Dropbox/java/src/com/company/Point.java" />
-      <jump line="5" column="0" filename="X:/Dropbox/java/src/com/company/Point.java" />
-      <jump line="10" column="0" filename="X:/Dropbox/java/src/com/company/Point.java" />
-      <jump line="5" column="16" filename="$USER_HOME$/IdeaProjects/HelloWorld/src/com/company/TWR.java" />
-      <jump line="24" column="48" filename="$USER_HOME$/IdeaProjects/HelloWorld/src/com/company/TWR.java" />
-      <jump line="28" column="8" filename="$USER_HOME$/IdeaProjects/HelloWorld/src/com/company/TWR.java" />
-      <jump line="14" column="4" filename="$USER_HOME$/IdeaProjects/HelloWorld/src/com/company/TWR.java" />
       <jump line="0" column="0" filename="$USER_HOME$/IdeaProjects/HelloWorld/src/com/company/TWR.java" />
       <jump line="46" column="0" filename="$USER_HOME$/IdeaProjects/HelloWorld/src/com/company/TWR.java" />
       <jump line="9" column="15" filename="$USER_HOME$/IdeaProjects/HelloWorld/src/com/company/TWR.java" />
@@ -277,6 +282,14 @@
       <jump line="0" column="0" filename="X:/ExamPrep/src/Ajsp.jsp" />
       <jump line="12" column="0" filename="X:/ExamPrep/src/CanvasExample.java" />
       <jump line="6" column="0" filename="X:/ExamPrep/src/CanvasExample.java" />
+      <jump line="18" column="45" filename="X:/Dropbox/java/Amazon/src/Array.java" />
+      <jump line="3" column="22" filename="X:/Dropbox/java/Amazon/src/Array.java" />
+      <jump line="9" column="0" filename="X:/Dropbox/java/Amazon/src/Array.java" />
+      <jump line="10" column="16" filename="X:/Dropbox/java/Amazon/src/Array.java" />
+      <jump line="19" column="0" filename="X:/Dropbox/java/Amazon/src/Array.java" />
+      <jump line="16" column="56" filename="X:/Dropbox/java/Amazon/src/Array.java" />
+      <jump line="5" column="41" filename="X:/Dropbox/java/Amazon/src/Array.java" />
+      <jump line="4" column="28" filename="X:/Dropbox/java/Amazon/src/Array.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -288,55 +301,55 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>+</text>
+        <text encoding="base64">YVtpXSA=</text>
       </register>
       <register name="-" type="4">
-        <text>+</text>
+        <text encoding="base64">YVtpXSA=</text>
       </register>
       <register name="/" type="4">
-        <text>main</text>
+        <text>10</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oeC5jYXBhY2l0eSgpKTsK</text>
+        <text encoding="base64">ICAgICAgICBmb3IgKGludCBpID0gMDsgaSA8IGEubGVuZ3RoOyBpKyspCiAgICAgICAgewogICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oImEgIiArIGFbaV0pOwogICAgICAgIH0K</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">ICAgICAgICBpbnQgYVtdID0gezEsIDIsIDMsIDQsIDV9OwogICAgICAgIGludCBiW10gPSBhOwogICAgICAgIGJbMV0gPSA5OTsKICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oYVsxXSk7</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBNb250aE5hbWVzIG0gPSBuZXcgTW9udGhOYW1lcygwYjEwKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJFbnRlciBhIG51bWJlcjoiKTsKICAgICAgICAgICAgYVtpXSA9IHNjYW5uZXIubmV4dEludCgpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIHN0YXRpYyBpbnQgeDsK</text>
+        <text encoding="base64">ICAgICAgICBmb3IgKGludCBpID0gMDsgaSA8IGEubGVuZ3RoOyBpKyspCiAgICAgICAgewogICAgICAgIH0K</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgYSA9ICJIZWxsbyI7CiAgICAgICAgU3RyaW5nIGIgPSAiSGVsbG8iOw==</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oYiA9PSBhKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGYoImFycmF5WyVkXSA9ICVkXG4iLCBpLCBhW2ldKTsK</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">ICAgICAgICBCaWdEZWNpbWFsIGE7CiAgICAgICAgYSA9IG5ldyBCaWdEZWNpbWFsKCIxMjM0NSIpOwogICAgICAgIEJpZ0RlY2ltYWwgYiA9IG5ldyBCaWdEZWNpbWFsKCIyIik7CiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKGEubXVsdGlwbHkoYikpOw==</text>
+      <register name="6" type="2">
+        <text encoding="base64">Two=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmFmeC5hcHBsaWNhdGlvbi5BcHBsaWNhdGlvbjsKaW1wb3J0IGphdmFmeC5zY2VuZS5sYXlvdXQuQm9yZGVyUGFuZTsKaW1wb3J0IGphdmFmeC5zY2VuZS5sYXlvdXQuRmxvd1BhbmU7CmltcG9ydCBqYXZhZnguc2NlbmUubGF5b3V0LkdyaWRQYW5lOwppbXBvcnQgamF2YWZ4LnNjZW5lLnNoYXBlLlJlY3RhbmdsZTsKaW1wb3J0IGphdmFmeC5zdGFnZS5TdGFnZTsKCnB1YmxpYyBjbGFzcyBDYW52YXNFeGFtcGxlCgogICAgcHVibGljIHN0YXRpYyB2b2lkIG1haW4oU3RyaW5nIC4uLiBhcmdzKSB7CiAgICAgICAgbGF1bmNoKGFyZ3MpOwogICAgfQoKICAgIEBPdmVycmlkZQogICAgcHVibGljIHZvaWQgc3RhcnQoU3RhZ2UgcHJpbWFyeVN0YWdlKSB7CiAgICAgICAgbmV3IEJvcmRlclBhbmUoKQoKICAgIH0KfQo=</text>
+      <register name="7" type="4">
+        <text encoding="base64">ICAgICAgICBmb3IgKGludCBpID0gMDsgaSA8IDsgaSsrKSB7CiAgICAgICAgICAgIAogICAgICAgIH0=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBuZXcgR3JpZFBhbmUoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBuZXcgRmxvd1BhbmUoamspCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYVtpXSA9IGk7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action RunClass</text>
+        <text>write</text>
       </register>
     </registers>
     <search>
-      <last-search>main</last-search>
+      <last-search>10</last-search>
       <last-offset />
-      <last-pattern>main</last-pattern>
+      <last-pattern>10</last-pattern>
       <last-replace>lcm</last-replace>
       <last-substitute>gcd</last-substitute>
       <last-dir>1</last-dir>
@@ -361,6 +374,7 @@
         <entry>MyServer</entry>
         <entry>Application</entry>
         <entry>main</entry>
+        <entry>10</entry>
       </history-search>
       <history-cmd>
         <entry>namp ]]</entry>
@@ -372,17 +386,17 @@
         <entry>actionlist Method</entry>
         <entry>action MethodUp</entry>
         <entry>action MethodDown</entry>
-        <entry>action GotoNextError</entry>
         <entry>action Tool_External Tools_Vim</entry>
         <entry>set hls!</entry>
         <entry>source C:/Users/Toshiba PC/.ideavimrc</entry>
         <entry>echo &quot;Reloaded .ideavimrc&quot;</entry>
-        <entry>action GotoPreviousError</entry>
         <entry>w</entry>
         <entry>action RenameElement</entry>
         <entry>wrte</entry>
-        <entry>write</entry>
+        <entry>action GotoNextError</entry>
+        <entry>action GotoPreviousError</entry>
         <entry>action RunClass</entry>
+        <entry>write</entry>
       </history-cmd>
       <history-expr />
       <history-input />
