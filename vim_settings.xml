@@ -26,12 +26,6 @@
         <mark key="." line="22" column="46" />
         <mark key="^" line="22" column="46" />
       </file>
-      <file name="X:/ReactiveReminder/src/Reminder.java" timestamp="1462042454655">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="0" />
-        <mark key="." line="23" column="0" />
-      </file>
       <file name="X:/Dropbox/java/Amazon/src/array.java" timestamp="1468952814749">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
@@ -44,6 +38,13 @@
         <mark key="." line="13" column="13" />
         <mark key="^" line="13" column="15" />
       </file>
+      <file name="X:/Dropbox/java/Amazon/src/MaximizeProfit.java" timestamp="1469424473241">
+        <mark key="'" line="25" column="0" />
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="44" column="35" />
+        <mark key="." line="44" column="31" />
+        <mark key="^" line="24" column="38" />
+      </file>
       <file name="X:/Dropbox/java/Amazon/src/DoublyLinkedList.java" timestamp="1469167611492">
         <mark key="[" line="86" column="0" />
         <mark key="]" line="86" column="0" />
@@ -55,12 +56,6 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
         <mark key="^" line="12" column="0" />
-      </file>
-      <file name="X:/ExamPrep/src/Database.java" timestamp="1463715412346">
-        <mark key="'" line="9" column="32" />
-        <mark key="[" line="15" column="8" />
-        <mark key="]" line="15" column="8" />
-        <mark key="." line="15" column="8" />
       </file>
       <file name="X:/ReactiveReminder/src/Update.java" timestamp="1462031868261">
         <mark key="[" line="24" column="35" />
@@ -75,6 +70,7 @@
         <mark key="^" line="25" column="45" />
         <mark key="." line="25" column="45" />
       </file>
+      <file name="X:/ReactiveReminder/src/LiveTemplates.java" timestamp="1469419879716" />
       <file name="X:/ExamPrep/src/CanvasExample.java" timestamp="1463719666830">
         <mark key="[" line="86" column="45" />
         <mark key="]" line="86" column="44" />
@@ -87,11 +83,6 @@
         <mark key="^" line="8" column="29" />
         <mark key="." line="7" column="17" />
       </file>
-      <file name="X:/ExamPrep/src/Ajsp.jsp" timestamp="1463716307197">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="48" column="6" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/HelloWorld/src/com/company/Servers/Student.java" timestamp="1457589016966">
         <mark key="[" line="17" column="0" />
         <mark key="]" line="17" column="0" />
@@ -102,12 +93,6 @@
         <mark key="]" line="3" column="2" />
         <mark key="^" line="3" column="2" />
         <mark key="." line="3" column="2" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/HelloWorld/src/com/company/File" timestamp="1460018149847">
-        <mark key="'" line="39" column="8" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="X:/ReactiveReminder/src/ReminderObserver.java" timestamp="1462539195432">
         <mark key="[" line="8" column="0" />
@@ -146,12 +131,6 @@
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/HelloWorld/src/com/company/ServerForCalculator.java" timestamp="1457340239364">
-        <mark key="'" line="17" column="12" />
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
       </file>
       <file name="X:/Dropbox/java/Amazon/raw/linkedList.txt" timestamp="1469164896802">
         <mark key="[" line="0" column="0" />
@@ -193,7 +172,7 @@
         <mark key="^" line="8" column="11" />
         <mark key="." line="8" column="11" />
       </file>
-      <file name="/fragment.java" timestamp="1462000177414">
+      <file name="/fragment.java" timestamp="1469424347097">
         <mark key="'" line="0" column="18" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="23" />
@@ -208,11 +187,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="33" column="34" filename="$USER_HOME$/IdeaProjects/HelloWorld/src/com/company/GetWebSite.java" />
-      <jump line="32" column="18" filename="$USER_HOME$/IdeaProjects/HelloWorld/src/com/company/GetWebSite.java" />
-      <jump line="40" column="0" filename="$USER_HOME$/IdeaProjects/HelloWorld/src/com/company/GetWebSite.java" />
-      <jump line="38" column="22" filename="$USER_HOME$/IdeaProjects/HelloWorld/src/com/company/GetWebSite.java" />
-      <jump line="18" column="23" filename="$USER_HOME$/IdeaProjects/HelloWorld/src/com/company/GetWebSite.java" />
       <jump line="21" column="0" filename="$USER_HOME$/IdeaProjects/HelloWorld/src/com/company/GetWebSite.java" />
       <jump line="23" column="5" filename="$USER_HOME$/IdeaProjects/HelloWorld/src/com/company/CalculatorClient.java" />
       <jump line="26" column="17" filename="$USER_HOME$/IdeaProjects/HelloWorld/src/com/company/CalculatorClient.java" />
@@ -308,6 +282,11 @@
       <jump line="38" column="32" filename="X:/Dropbox/java/Amazon/src/DoublyLinkedList.java" />
       <jump line="93" column="4" filename="X:/Dropbox/java/Amazon/src/DoublyLinkedList.java" />
       <jump line="91" column="0" filename="X:/Dropbox/java/Amazon/src/DoublyLinkedList.java" />
+      <jump line="29" column="16" filename="X:/Dropbox/java/Amazon/src/MaximizeProfit.java" />
+      <jump line="13" column="0" filename="X:/Dropbox/java/Amazon/src/MaximizeProfit.java" />
+      <jump line="33" column="0" filename="X:/Dropbox/java/Amazon/src/MaximizeProfit.java" />
+      <jump line="31" column="0" filename="X:/Dropbox/java/Amazon/src/MaximizeProfit.java" />
+      <jump line="24" column="0" filename="X:/Dropbox/java/Amazon/src/MaximizeProfit.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -319,46 +298,46 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBTdHJpbmcgdG9TdHJpbmcgKCkKICAgIHsKCiAgICAgICAgZm9yIChOb2RlIGN1cnJlbnQgPSBzdGFydDsgY3VycmVudCAhPSBudWxsOyBjdXJyZW50ID0gY3VycmVudC5uZXh0KQogICAgICAgIHsKCiAgICAgICAgfQogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9yIChsb25nIGludGVnZXIgOiBhKQogICAgICAgICAgICB7Ci8vICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRmKCIlZCAiLCBpbnRlZ2VyKTsKICAgICAgICAgICAgfQogICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oc3VtKTsK</text>
       </register>
       <register name="-" type="4">
-        <text>void</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>10</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIEU7Cg==</text>
+        <text encoding="base64">ICAgICAgICBTY2FubmVyIHNjYW5uZXIgPSBuZXcgU2Nhbm5lcihTeXN0ZW0uaW4pOwogICAgICAgIGludCBuID0gc2Nhbm5lci5uZXh0SW50KCk7CiAgICAgICAgZm9yIChpbnQgaSA9IDA7IGkgPCBuOyBpKyspCiAgICAgICAgewogICAgICAgICAgICBpbnQgbSA9IHNjYW5uZXIubmV4dEludCgpOwogICAgICAgICAgICBpbnQgYVtdID0gbmV3IGludFttXTsKICAgICAgICAgICAgZm9yIChpbnQgaiA9IDA7IGogPCBtOyBqKyspCiAgICAgICAgICAgIHsKCiAgICAgICAgICAgICAgICBhW2pdID0gc2Nhbm5lci5uZXh0SW50KCk7CgogICAgICAgICAgICB9CiAgICAgICAgICAgIGZvciAoaW50IGludGVnZXIgOiBhKQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50ZigiJWQgIiwgaW50ZWdlcik7CiAgICAgICAgICAgIH0KICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCk7CiAgICAgICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBTdHJpbmcgdG9TdHJpbmcgKCkKICAgIHsKCiAgICAgICAgZm9yIChOb2RlIGN1cnJlbnQgPSBzdGFydDsgY3VycmVudCAhPSBudWxsOyBjdXJyZW50ID0gY3VycmVudC5uZXh0KQogICAgICAgIHsKCiAgICAgICAgfQogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIGVsID0gKFN0cmluZykgY3VycmVudC5lbGVtZW50Owo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJzdW0gPSAiICsgc3VtKTsK</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="5" type="2">
+      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">ICAgICAgICBpZiAoc3RhcnQgPT0gZW5kKQogICAgICAgIHsKICAgICAgICAgICAgc3RhcnQgPSBudWxsOwogICAgICAgICAgICBlbmQgPSBudWxsOwogICAgICAgIH0KICAgICAgICBlbHNlCiAgICAgICAgewogICAgICAgICAgICAKICAgICAgICB9</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgbGlzdC5jbGVhcigpOwo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxpc3QuYWRkKGosIGVsKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBpbnQgZ2V0UHJvZml0KEFycmF5TGlzdCBhcnJheUxpc3QpCiAgICB7CiAgICAgICAgaW50IG4gPSBhcnJheUxpc3Quc2l6ZSgpIC0gMTsKICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIGFkZAo=</text>
+        <text encoding="base64">ICAgICAgICBBcnJheUxpc3Q8SW50ZWdlcj4gbGlzdCA9IG5ldyBBcnJheUxpc3Q8SW50ZWdlcj4oKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIGFkZExhc3QoRSBlbGVtZW50KQogICAgewogICAgICAgIAogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGludCBhW10gPSBuZXcgaW50W21dOwo=</text>
       </register>
       <register name=":" type="4">
         <text>write</text>
