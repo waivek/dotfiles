@@ -77,6 +77,12 @@
         <mark key="." line="86" column="44" />
         <mark key="^" line="86" column="44" />
       </file>
+      <file name="X:/Dropbox/java/Amazon/src/BinaryTree.java" timestamp="1469520363534">
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="0" />
+        <mark key="." line="35" column="0" />
+        <mark key="^" line="35" column="0" />
+      </file>
       <file name="X:/ExamPrep/src/sample/Comparable.java" timestamp="1463717786239">
         <mark key="[" line="7" column="17" />
         <mark key="]" line="7" column="17" />
@@ -298,10 +304,10 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9yIChsb25nIGludGVnZXIgOiBhKQogICAgICAgICAgICB7Ci8vICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRmKCIlZCAiLCBpbnRlZ2VyKTsKICAgICAgICAgICAgfQogICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oc3VtKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgewogICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">IHs=</text>
       </register>
       <register name="/" type="4">
         <text>10</text>
@@ -310,34 +316,34 @@
         <text encoding="base64">ICAgICAgICBTY2FubmVyIHNjYW5uZXIgPSBuZXcgU2Nhbm5lcihTeXN0ZW0uaW4pOwogICAgICAgIGludCBuID0gc2Nhbm5lci5uZXh0SW50KCk7CiAgICAgICAgZm9yIChpbnQgaSA9IDA7IGkgPCBuOyBpKyspCiAgICAgICAgewogICAgICAgICAgICBpbnQgbSA9IHNjYW5uZXIubmV4dEludCgpOwogICAgICAgICAgICBpbnQgYVtdID0gbmV3IGludFttXTsKICAgICAgICAgICAgZm9yIChpbnQgaiA9IDA7IGogPCBtOyBqKyspCiAgICAgICAgICAgIHsKCiAgICAgICAgICAgICAgICBhW2pdID0gc2Nhbm5lci5uZXh0SW50KCk7CgogICAgICAgICAgICB9CiAgICAgICAgICAgIGZvciAoaW50IGludGVnZXIgOiBhKQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50ZigiJWQgIiwgaW50ZWdlcik7CiAgICAgICAgICAgIH0KICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCk7CiAgICAgICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgewogICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgewogICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJzdW0gPSAiICsgc3VtKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGN1cnJlbnQucmlnaHQgPT0gbnVsbAo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbGlzdC5jbGVhcigpOwo=</text>
+        <text encoding="base64">ICAgIHZvaWQgYWRkKCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxpc3QuYWRkKGosIGVsKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBpbnQgZ2V0UHJvZml0KEFycmF5TGlzdCBhcnJheUxpc3QpCiAgICB7CiAgICAgICAgaW50IG4gPSBhcnJheUxpc3Quc2l6ZSgpIC0gMTsKICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBBcnJheUxpc3Q8SW50ZWdlcj4gbGlzdCA9IG5ldyBBcnJheUxpc3Q8SW50ZWdlcj4oKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGludCBhW10gPSBuZXcgaW50W21dOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJzdW0gPSAiICsgc3VtKTsK</text>
       </register>
       <register name=":" type="4">
         <text>write</text>
