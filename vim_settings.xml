@@ -45,10 +45,11 @@
         <mark key="." line="44" column="31" />
         <mark key="^" line="24" column="38" />
       </file>
-      <file name="X:/Dropbox/java/Amazon/src/DoublyLinkedList.java" timestamp="1469167611492">
-        <mark key="[" line="86" column="0" />
-        <mark key="]" line="86" column="0" />
-        <mark key="." line="86" column="0" />
+      <file name="X:/Dropbox/java/Amazon/src/DoublyLinkedList.java" timestamp="1469522124617">
+        <mark key="[" line="55" column="0" />
+        <mark key="]" line="55" column="0" />
+        <mark key="." line="55" column="0" />
+        <mark key="^" line="54" column="29" />
       </file>
       <file name="X:/Dropbox/java/Amazon/src/Graph.java" timestamp="1469164635316">
         <mark key="'" line="32" column="0" />
@@ -77,11 +78,12 @@
         <mark key="." line="86" column="44" />
         <mark key="^" line="86" column="44" />
       </file>
-      <file name="X:/Dropbox/java/Amazon/src/BinaryTree.java" timestamp="1469520363534">
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="35" column="0" />
-        <mark key="." line="35" column="0" />
-        <mark key="^" line="35" column="0" />
+      <file name="X:/Dropbox/java/Amazon/src/BinaryTree.java" timestamp="1469522177936">
+        <mark key="'" line="71" column="4" />
+        <mark key="[" line="85" column="30" />
+        <mark key="]" line="85" column="40" />
+        <mark key="." line="85" column="40" />
+        <mark key="^" line="85" column="40" />
       </file>
       <file name="X:/ExamPrep/src/sample/Comparable.java" timestamp="1463717786239">
         <mark key="[" line="7" column="17" />
@@ -193,9 +195,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="21" column="0" filename="$USER_HOME$/IdeaProjects/HelloWorld/src/com/company/GetWebSite.java" />
-      <jump line="23" column="5" filename="$USER_HOME$/IdeaProjects/HelloWorld/src/com/company/CalculatorClient.java" />
-      <jump line="26" column="17" filename="$USER_HOME$/IdeaProjects/HelloWorld/src/com/company/CalculatorClient.java" />
       <jump line="9" column="0" filename="$USER_HOME$/IdeaProjects/HelloWorld/src/com/company/CalculatorClient.java" />
       <jump line="18" column="0" filename="$USER_HOME$/IdeaProjects/HelloWorld/src/com/company/CalculatorClient.java" />
       <jump line="16" column="6" filename="$USER_HOME$/IdeaProjects/HelloWorld/src/com/company/CalculatorClient.java" />
@@ -293,6 +292,9 @@
       <jump line="33" column="0" filename="X:/Dropbox/java/Amazon/src/MaximizeProfit.java" />
       <jump line="31" column="0" filename="X:/Dropbox/java/Amazon/src/MaximizeProfit.java" />
       <jump line="24" column="0" filename="X:/Dropbox/java/Amazon/src/MaximizeProfit.java" />
+      <jump line="70" column="0" filename="X:/Dropbox/java/Amazon/src/BinaryTree.java" />
+      <jump line="68" column="25" filename="X:/Dropbox/java/Amazon/src/BinaryTree.java" />
+      <jump line="71" column="4" filename="X:/Dropbox/java/Amazon/src/BinaryTree.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -303,50 +305,50 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgewogICAgICAgICAgICAgICAgCg==</text>
+      <register name="&quot;" type="4">
+        <text>Backwards</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IHs=</text>
+        <text>Backwards</text>
       </register>
       <register name="/" type="4">
         <text>10</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBTY2FubmVyIHNjYW5uZXIgPSBuZXcgU2Nhbm5lcihTeXN0ZW0uaW4pOwogICAgICAgIGludCBuID0gc2Nhbm5lci5uZXh0SW50KCk7CiAgICAgICAgZm9yIChpbnQgaSA9IDA7IGkgPCBuOyBpKyspCiAgICAgICAgewogICAgICAgICAgICBpbnQgbSA9IHNjYW5uZXIubmV4dEludCgpOwogICAgICAgICAgICBpbnQgYVtdID0gbmV3IGludFttXTsKICAgICAgICAgICAgZm9yIChpbnQgaiA9IDA7IGogPCBtOyBqKyspCiAgICAgICAgICAgIHsKCiAgICAgICAgICAgICAgICBhW2pdID0gc2Nhbm5lci5uZXh0SW50KCk7CgogICAgICAgICAgICB9CiAgICAgICAgICAgIGZvciAoaW50IGludGVnZXIgOiBhKQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50ZigiJWQgIiwgaW50ZWdlcik7CiAgICAgICAgICAgIH0KICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCk7CiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludChjdXJyZW50LmVsZW1lbnQgKyAiICIpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgewogICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgewogICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGN1cnJlbnQucmlnaHQgPT0gbnVsbAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgTm9kZSBjdXJyZW50IAogICAgICAgICAgICB3aGlsZSAodHJ1ZSkKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgCiAgICAgICAgICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHZvaWQgYWRkKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKGN1cnJlbnQuZWxlbWVudCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJzdW0gPSAiICsgc3VtKTsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
-        <text>write</text>
+        <text>action RunClass</text>
       </register>
     </registers>
     <search>
@@ -398,8 +400,8 @@
         <entry>wrtie</entry>
         <entry>action RenameElement</entry>
         <entry>action GotoPreviousError</entry>
-        <entry>action RunClass</entry>
         <entry>write</entry>
+        <entry>action RunClass</entry>
       </history-cmd>
       <history-expr />
       <history-input />
