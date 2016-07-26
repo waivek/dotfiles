@@ -61,10 +61,12 @@
         <mark key="." line="55" column="0" />
         <mark key="^" line="54" column="29" />
       </file>
-      <file name="X:/Dropbox/java/Amazon/src/Graph.java" timestamp="1469524530680">
-        <mark key="[" line="60" column="0" />
-        <mark key="]" line="60" column="0" />
-        <mark key="." line="60" column="0" />
+      <file name="X:/Dropbox/java/Amazon/src/Graph.java" timestamp="1469525400969">
+        <mark key="'" line="97" column="0" />
+        <mark key="[" line="124" column="14" />
+        <mark key="]" line="124" column="15" />
+        <mark key="." line="124" column="15" />
+        <mark key="^" line="124" column="16" />
       </file>
       <file name="X:/ReactiveReminder/src/Update.java" timestamp="1462031868261">
         <mark key="[" line="24" column="35" />
@@ -204,20 +206,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="25" column="12" filename="$USER_HOME$/IdeaProjects/HelloWorld/src/com/company/ServiceForCalculator.java" />
-      <jump line="68" column="20" filename="$USER_HOME$/IdeaProjects/HelloWorld/src/com/company/ServiceForCalculator.java" />
-      <jump line="63" column="23" filename="$USER_HOME$/IdeaProjects/HelloWorld/src/com/company/ServiceForCalculator.java" />
-      <jump line="61" column="22" filename="$USER_HOME$/IdeaProjects/HelloWorld/src/com/company/ServiceForCalculator.java" />
-      <jump line="65" column="23" filename="$USER_HOME$/IdeaProjects/HelloWorld/src/com/company/ServiceForCalculator.java" />
-      <jump line="11" column="3" filename="$USER_HOME$/IdeaProjects/HelloWorld/src/com/company/ServiceForCalculator.java" />
-      <jump line="73" column="0" filename="$USER_HOME$/IdeaProjects/HelloWorld/src/com/company/ServiceForCalculator.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/IdeaProjects/HelloWorld/src/com/company/ServiceForCalculator.java" />
-      <jump line="5" column="0" filename="$USER_HOME$/IdeaProjects/HelloWorld/src/com/company/Servers/MyServer/MyServer.java" />
-      <jump line="7" column="0" filename="$USER_HOME$/IdeaProjects/HelloWorld/src/com/company/Servers/MyServer/MyServer.java" />
-      <jump line="8" column="0" filename="$USER_HOME$/IdeaProjects/HelloWorld/src/com/company/Servers/MyServer/MyServer.java" />
-      <jump line="4" column="29" filename="$USER_HOME$/IdeaProjects/HelloWorld/src/com/company/File" />
-      <jump line="32" column="29" filename="$USER_HOME$/IdeaProjects/HelloWorld/src/com/company/File" />
-      <jump line="61" column="29" filename="$USER_HOME$/IdeaProjects/HelloWorld/src/com/company/File" />
       <jump line="89" column="29" filename="$USER_HOME$/IdeaProjects/HelloWorld/src/com/company/File" />
       <jump line="141" column="29" filename="$USER_HOME$/IdeaProjects/HelloWorld/src/com/company/File" />
       <jump line="189" column="29" filename="$USER_HOME$/IdeaProjects/HelloWorld/src/com/company/File" />
@@ -293,17 +281,31 @@
       <jump line="71" column="4" filename="X:/Dropbox/java/Amazon/src/BinaryTree.java" />
       <jump line="3" column="2" filename="X:/Dropbox/java/Amazon/raw/graph.txt" />
       <jump line="21" column="0" filename="X:/Dropbox/java/Amazon/src/Graph.java" />
-      <jump line="24" column="28" filename="X:/Dropbox/java/Amazon/src/Graph.java" />
       <jump line="26" column="0" filename="X:/Dropbox/java/Amazon/src/Graph.java" />
       <jump line="31" column="0" filename="X:/Dropbox/java/Amazon/src/Graph.java" />
       <jump line="41" column="10" filename="X:/Dropbox/java/Amazon/src/Graph.java" />
       <jump line="40" column="0" filename="X:/Dropbox/java/Amazon/src/Graph.java" />
-      <jump line="32" column="0" filename="X:/Dropbox/java/Amazon/src/Graph.java" />
-      <jump line="27" column="0" filename="X:/Dropbox/java/Amazon/src/Graph.java" />
       <jump line="22" column="0" filename="X:/Dropbox/java/Amazon/src/Graph.java" />
       <jump line="17" column="0" filename="X:/Dropbox/java/Amazon/src/Graph.java" />
       <jump line="18" column="28" filename="X:/Dropbox/java/Amazon/src/Graph.java" />
       <jump line="112" column="10" filename="X:/Dropbox/java/Amazon/src/Graph.java" />
+      <jump line="61" column="0" filename="X:/Dropbox/java/Amazon/src/Graph.java" />
+      <jump line="6" column="0" filename="X:/Dropbox/java/Amazon/src/Graph.java" />
+      <jump line="7" column="0" filename="X:/Dropbox/java/Amazon/src/Graph.java" />
+      <jump line="9" column="0" filename="X:/Dropbox/java/Amazon/src/Graph.java" />
+      <jump line="24" column="0" filename="X:/Dropbox/java/Amazon/src/Graph.java" />
+      <jump line="27" column="0" filename="X:/Dropbox/java/Amazon/src/Graph.java" />
+      <jump line="32" column="0" filename="X:/Dropbox/java/Amazon/src/Graph.java" />
+      <jump line="37" column="0" filename="X:/Dropbox/java/Amazon/src/Graph.java" />
+      <jump line="42" column="0" filename="X:/Dropbox/java/Amazon/src/Graph.java" />
+      <jump line="53" column="0" filename="X:/Dropbox/java/Amazon/src/Graph.java" />
+      <jump line="57" column="0" filename="X:/Dropbox/java/Amazon/src/Graph.java" />
+      <jump line="60" column="0" filename="X:/Dropbox/java/Amazon/src/Graph.java" />
+      <jump line="62" column="0" filename="X:/Dropbox/java/Amazon/src/Graph.java" />
+      <jump line="77" column="0" filename="X:/Dropbox/java/Amazon/src/Graph.java" />
+      <jump line="63" column="0" filename="X:/Dropbox/java/Amazon/src/Graph.java" />
+      <jump line="64" column="0" filename="X:/Dropbox/java/Amazon/src/Graph.java" />
+      <jump line="72" column="0" filename="X:/Dropbox/java/Amazon/src/Graph.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -315,10 +317,10 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBxdWV1ZS5lbnEK</text>
+        <text encoding="base64">ICAgICAgICBnLnByaW50RWRnZXMoKTsK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ID0gbnVsbA==</text>
+        <text>startNode</text>
       </register>
       <register name="/" type="4">
         <text>addE</text>
@@ -327,7 +329,7 @@
         <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludChjdXJyZW50LmVsZW1lbnQgKyAiICIpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBxdWV1ZS5lbnEK</text>
+        <text encoding="base64">ICAgICAgICBnLnByaW50RWRnZXMoKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -336,28 +338,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBRdWV1ZQo=</text>
+      <register name="4" type="8">
+        <text encoding="base64">ICAgCiAgIAogICA=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgY2xhc3MgTm9kZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgd2VpZ2h0ID0gc2Nhbm5lci5uZXh0SW50KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50ZigiQWRkZWQgJWQgJWRcbiIsIHYxLCB2Mik7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgICAgIHRyeSAK</text>
+        <text encoding="base64">ICAgICAgICBmb3IoaW50IGkgPSAxOyBpIDw9IHRoaXMubnVtYmVyT2ZOb2RlczsgaSsrKQogICAgICAgIHsKICAgICAgICAgICAgaWYgKHRoaXMubWF0cml4W10pCgogICAgICAgIH0K</text>
       </register>
       <register name=":" type="4">
-        <text>write</text>
+        <text>action RunClass</text>
       </register>
     </registers>
     <search>
@@ -401,7 +403,6 @@
         <entry>source C:/Users/Toshiba PC/.ideavimrc</entry>
         <entry>echo &quot;Reloaded .ideavimrc&quot;</entry>
         <entry>wrte</entry>
-        <entry>action GotoNextError</entry>
         <entry>wrtie</entry>
         <entry>action RenameElement</entry>
         <entry>WRITE</entry>
@@ -409,10 +410,11 @@
         <entry>.,.+1action MethodUp</entry>
         <entry>%s/matrix.length/numberOfNodes</entry>
         <entry>writ</entry>
-        <entry>action GotoPreviousError</entry>
         <entry>w</entry>
-        <entry>action RunClass</entry>
+        <entry>action GotoPreviousError</entry>
+        <entry>action GotoNextError</entry>
         <entry>write</entry>
+        <entry>action RunClass</entry>
       </history-cmd>
       <history-expr />
       <history-input />
