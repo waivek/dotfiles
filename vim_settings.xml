@@ -48,6 +48,12 @@
         <mark key="^" line="1" column="2" />
         <mark key="." line="1" column="0" />
       </file>
+      <file name="X:/Dropbox/java/Amazon/src/StringRotation.java" timestamp="1470233113306">
+        <mark key="[" line="25" column="46" />
+        <mark key="]" line="25" column="47" />
+        <mark key="." line="25" column="47" />
+        <mark key="^" line="25" column="47" />
+      </file>
       <file name="X:/Dropbox/java/Amazon/src/StringQuestions.java" timestamp="1469811704414">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="0" />
@@ -233,9 +239,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="42" column="0" filename="$USER_HOME$/IdeaProjects/HelloWorld/src/com/company/File" />
-      <jump line="35" column="0" filename="$USER_HOME$/IdeaProjects/HelloWorld/src/com/company/File" />
-      <jump line="26" column="0" filename="$USER_HOME$/IdeaProjects/HelloWorld/src/com/company/File" />
       <jump line="17" column="0" filename="$USER_HOME$/IdeaProjects/HelloWorld/src/com/company/File" />
       <jump line="10" column="0" filename="$USER_HOME$/IdeaProjects/HelloWorld/src/com/company/File" />
       <jump line="7" column="0" filename="$USER_HOME$/IdeaProjects/HelloWorld/src/com/company/File" />
@@ -333,6 +336,9 @@
       <jump line="114" column="0" filename="X:/Dropbox/java/Amazon/src/Graph.java" />
       <jump line="27" column="71" filename="X:/Dropbox/java/Amazon/src/LCS.java" />
       <jump line="2" column="8" filename="X:/Dropbox/java/Amazon/src/LCS.java" />
+      <jump line="11" column="40" filename="X:/Dropbox/java/Amazon/src/StringRotation.java" />
+      <jump line="12" column="0" filename="X:/Dropbox/java/Amazon/src/StringRotation.java" />
+      <jump line="23" column="36" filename="X:/Dropbox/java/Amazon/src/StringRotation.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -343,11 +349,11 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGludCBlZmZpY2llbnRMZW5ndGhMQ1MoU3RyaW5nIHgsIFN0cmluZyB5LCBpbnQgbSwgaW50IG4pCiAgICB7CiAgICAgICAgCiAgICB9Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">PCBsZW5ndGg=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">PCBsZW5ndGg=</text>
       </register>
       <register name="/" type="4">
         <text>Mini</text>
@@ -356,35 +362,34 @@
         <text encoding="base64">aWYgKHguY2hhckF0KG0gLSAxKSA9PSB5LmNoYXJBdChuIC0gMSkpIA==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGludCBlZmZpY2llbnRMZW5ndGhMQ1MoU3RyaW5nIHgsIFN0cmluZyB5LCBpbnQgbSwgaW50IG4pCiAgICB7CiAgICAgICAgCiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKHByb2dyYW0uaW5wdXQudG9TdHJpbmcoKSk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHRoaXMuYVttXVtuXTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHRoaXMuYVttXVtuXTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcm9ncmFtLmlucHV0Lgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKHRoaXMuYVttXVtuXSAhPSBMQ1MuTlVMTF9WQUxVRSkgewo=</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50ZigiTGVuZ3RoID0gJWRcbiIsIGEubGVuZ3RoKTsK</text>
       </register>
-      <register name="6" type="4">
-        <text>{
-            if (</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBjaGFyIGFbXSA9IG5ldyBjaGFyWzEwMF07Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBmb3IgKGludCBpID0gMDsgaSA8MTA7IGkrKykgewogICAgICAgICAgICBpbnQgdmFsID0gYVtpXSA9PSAnXDAnID8gMSA6IDA7CiAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRmKCIlZFxuIiwgdmFsKTsKICAgICAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGlmICh0aGlzLmFbbV1bbl0gIT0gTENTLk5VTExfVkFMVUUpIHsKLy8gICAgICAgICAgICByZXR1cm4gdGhpcy5hW21dW25dOwovLyAgICAgICAgfQovLyAgICAgICAgZWxzZSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICBpbnQgaSA9IDA7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>write</text>
@@ -436,11 +441,11 @@
         <entry>source C:/Users/Toshiba PC/.ideavimrc</entry>
         <entry>echo &quot;Reloaded .ideavimrc&quot;</entry>
         <entry>writ</entry>
-        <entry>action GotoPreviousError</entry>
         <entry>action MethodUp</entry>
+        <entry>.-1put=&quot;&quot;</entry>
         <entry>action GotoNextError</entry>
         <entry>action RenameElement</entry>
-        <entry>.-1put=&quot;&quot;</entry>
+        <entry>action GotoPreviousError</entry>
         <entry>action RunClass</entry>
         <entry>write</entry>
       </history-cmd>
