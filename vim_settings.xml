@@ -90,11 +90,12 @@
         <mark key="." line="55" column="0" />
         <mark key="^" line="54" column="29" />
       </file>
-      <file name="X:/Dropbox/java/Amazon/src/BalanceParen.java" timestamp="1470297170329">
-        <mark key="[" line="12" column="53" />
-        <mark key="]" line="12" column="61" />
-        <mark key="." line="12" column="61" />
-        <mark key="^" line="12" column="61" />
+      <file name="X:/Dropbox/java/Amazon/src/BalanceParen.java" timestamp="1470298076919">
+        <mark key="'" line="29" column="22" />
+        <mark key="[" line="45" column="45" />
+        <mark key="]" line="45" column="45" />
+        <mark key="." line="45" column="45" />
+        <mark key="^" line="45" column="45" />
       </file>
       <file name="X:/Dropbox/java/Amazon/src/Graph.java" timestamp="1469810343366">
         <mark key="'" line="108" column="0" />
@@ -245,9 +246,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="17" column="0" filename="$USER_HOME$/IdeaProjects/HelloWorld/src/com/company/File" />
-      <jump line="10" column="0" filename="$USER_HOME$/IdeaProjects/HelloWorld/src/com/company/File" />
-      <jump line="7" column="0" filename="$USER_HOME$/IdeaProjects/HelloWorld/src/com/company/File" />
       <jump line="39" column="8" filename="$USER_HOME$/IdeaProjects/HelloWorld/src/com/company/File" />
       <jump line="28" column="4" filename="$USER_HOME$/IdeaProjects/HelloWorld/src/com/company/FXDrawing.java" />
       <jump line="13" column="13" filename="$USER_HOME$/IdeaProjects/HelloWorld/src/com/company/CalculatorFX.java" />
@@ -345,6 +343,9 @@
       <jump line="11" column="40" filename="X:/Dropbox/java/Amazon/src/StringRotation.java" />
       <jump line="12" column="0" filename="X:/Dropbox/java/Amazon/src/StringRotation.java" />
       <jump line="23" column="36" filename="X:/Dropbox/java/Amazon/src/StringRotation.java" />
+      <jump line="18" column="12" filename="X:/Dropbox/java/Amazon/src/BalanceParen.java" />
+      <jump line="28" column="22" filename="X:/Dropbox/java/Amazon/src/BalanceParen.java" />
+      <jump line="21" column="19" filename="X:/Dropbox/java/Amazon/src/BalanceParen.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -356,83 +357,62 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIm5vdCBiYWxhbmNlZCIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzd2l0Y2gocCkgewogICAgICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="-" type="4">
-        <text>!</text>
+        <text>true</text>
       </register>
       <register name="/" type="4">
-        <text>Mini</text>
+        <text encoding="base64">XDxBcnJheUluZGV4T3V0T2ZCb3VuZHNFeGNlcHRpb25cPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oImJhbGFuY2VkIik7Cg==</text>
+      <register name="0" type="4">
+        <text>(c == '[' || c == '{' || c == '(')</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIm5vdCBiYWxhbmNlZCIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzd2l0Y2gocCkgewogICAgICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oImJhbGFuY2VkIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY2FzZSAnXScK</text>
       </register>
-      <register name="3" type="4">
-        <text>*/
-public class BalanceParen {
-    boolean isBalanced(String input) {
-        return false;
-    }
-    public static void main(String args[]) {
-        BalanceParen program = new BalanceParen();
-        assert program.isBalanced(&quot;[()]{}{[()()]()}&quot;);
-        System.out.println(&quot;balanced&quot;);
-        assert !program.isBalanced(&quot;[(])&quot;);
-        System.out.println(&quot;not balanced&quot;);</text>
-      </register>
-      <register name="4" type="4">
-        <text>*/
-public class BalanceParen {
-    boolean isBalanced(String input) {
-        return false;
-    }
-    public static void main(String args[]) {
-        BalanceParen program = new BalanceParen();
-        assert program.isBalanced(&quot;[()]{}{[()()]()}&quot;);
-        System.out.println(&quot;balanced&quot;);
-        assert !program.isBalanced(&quot;[(])&quot;);
-        System.out.println(&quot;not balanced&quot;);</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnQodHJ1ZSwgImhlbGxvIik7Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgYSA9IDsK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKHByb2dyYW0uaW5wdXQudG9TdHJpbmcoKSk7Cg==</text>
-      </register>
-      <register name="8" type="2">
+      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKCkK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRocm93IEFycmF5SW5kZXhPdXRPZkJvdW5kc0V4Y2VwdGlvbjsK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuICcvJzsK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcm9ncmFtLmlucHV0Lgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name=":" type="4">
-        <text>action RunClass</text>
+        <text>write</text>
       </register>
     </registers>
     <search>
-      <last-search>Mini</last-search>
+      <last-search encoding="base64">XDxBcnJheUluZGV4T3V0T2ZCb3VuZHNFeGNlcHRpb25cPg==</last-search>
       <last-offset />
-      <last-pattern>Mini</last-pattern>
+      <last-pattern encoding="base64">XDxBcnJheUluZGV4T3V0T2ZCb3VuZHNFeGNlcHRpb25cPg==</last-pattern>
       <last-replace>numberOfNodes</last-replace>
       <last-substitute>matrix.length</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>random</entry>
         <entry>inputCards</entry>
         <entry encoding="base64">XDxnZXRTZWxlY3RlZFZhbHVlXD4=</entry>
         <entry>refreshSpan</entry>
@@ -452,9 +432,9 @@ public class BalanceParen {
         <entry>addE</entry>
         <entry>Breadth</entry>
         <entry>Mini</entry>
+        <entry encoding="base64">XDxBcnJheUluZGV4T3V0T2ZCb3VuZHNFeGNlcHRpb25cPg==</entry>
       </history-search>
       <history-cmd>
-        <entry>action Tool_External Tools_Vim</entry>
         <entry>wrte</entry>
         <entry>WRITE</entry>
         <entry>action MethodDown</entry>
@@ -470,10 +450,11 @@ public class BalanceParen {
         <entry>action MethodUp</entry>
         <entry>.-1put=&quot;&quot;</entry>
         <entry>action GotoNextError</entry>
+        <entry>action RunClass</entry>
         <entry>action RenameElement</entry>
+        <entry>rwite</entry>
         <entry>action GotoPreviousError</entry>
         <entry>write</entry>
-        <entry>action RunClass</entry>
       </history-cmd>
       <history-expr />
       <history-input />
