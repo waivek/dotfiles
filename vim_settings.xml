@@ -54,10 +54,12 @@
         <mark key="." line="25" column="47" />
         <mark key="^" line="25" column="47" />
       </file>
-      <file name="X:/Dropbox/java/Amazon/src/StringQuestions.java" timestamp="1469811704414">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
+      <file name="X:/Dropbox/java/Amazon/src/StringQuestions.java" timestamp="1470300356699">
+        <mark key="'" line="9" column="19" />
+        <mark key="[" line="49" column="26" />
+        <mark key="]" line="50" column="21" />
+        <mark key="." line="50" column="21" />
+        <mark key="^" line="50" column="21" />
       </file>
       <file name="X:/Dropbox/java/Amazon/src/LCS.java" timestamp="1470202814058">
         <mark key="'" line="2" column="8" />
@@ -246,7 +248,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="39" column="8" filename="$USER_HOME$/IdeaProjects/HelloWorld/src/com/company/File" />
       <jump line="28" column="4" filename="$USER_HOME$/IdeaProjects/HelloWorld/src/com/company/FXDrawing.java" />
       <jump line="13" column="13" filename="$USER_HOME$/IdeaProjects/HelloWorld/src/com/company/CalculatorFX.java" />
       <jump line="18" column="23" filename="$USER_HOME$/IdeaProjects/HelloWorld/src/com/company/CalculatorFX.java" />
@@ -346,6 +347,7 @@
       <jump line="18" column="12" filename="X:/Dropbox/java/Amazon/src/BalanceParen.java" />
       <jump line="28" column="22" filename="X:/Dropbox/java/Amazon/src/BalanceParen.java" />
       <jump line="21" column="19" filename="X:/Dropbox/java/Amazon/src/BalanceParen.java" />
+      <jump line="8" column="19" filename="X:/Dropbox/java/Amazon/src/StringQuestions.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -356,11 +358,11 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzd2l0Y2gocCkgewogICAgICAgICAgICAgICAgICAgIH0K</text>
+      <register name="&quot;" type="4">
+        <text>char c = (char) System.in.read()</text>
       </register>
       <register name="-" type="4">
-        <text>true</text>
+        <text>char c = (char) System.in.read()</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxBcnJheUluZGV4T3V0T2ZCb3VuZHNFeGNlcHRpb25cPg==</text>
@@ -369,37 +371,37 @@
         <text>(c == '[' || c == '{' || c == '(')</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzd2l0Y2gocCkgewogICAgICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmdRdWVzdGlvbnMgbyA9IG5ldyBTdHJpbmdRdWVzdGlvbnMoKTsKICAgICAgICBvLk1hdGNoZXNQYXR0ZXJuKCJyZWRibHVlcmVkZ3JlZW5yZWQiLCAiYWJhY2EiKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY2FzZSAnXScK</text>
+        <text encoding="base64">ICAgICAgICB3aGlsZSAodHJ1ZSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKCkK</text>
+        <text encoding="base64">ICAgICAgICBTY2FubmVyIHNjYW5uZXIgPSBuZXcgU2Nhbm5lcihTeXN0ZW0uaW4pOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzY2FubmVyLm5leHRqawo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRocm93IEFycmF5SW5kZXhPdXRPZkJvdW5kc0V4Y2VwdGlvbjsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuICcvJzsK</text>
+        <text encoding="base64">ICAgICAgICBpbnQgbGVuID0gMDsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiB0cnVlOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>write</text>
+        <text>action RunClass</text>
       </register>
     </registers>
     <search>
@@ -435,7 +437,6 @@
         <entry encoding="base64">XDxBcnJheUluZGV4T3V0T2ZCb3VuZHNFeGNlcHRpb25cPg==</entry>
       </history-search>
       <history-cmd>
-        <entry>wrte</entry>
         <entry>WRITE</entry>
         <entry>action MethodDown</entry>
         <entry>.,.+1action MethodUp</entry>
@@ -446,15 +447,16 @@
         <entry>set nohls!</entry>
         <entry>source C:/Users/Toshiba PC/.ideavimrc</entry>
         <entry>echo &quot;Reloaded .ideavimrc&quot;</entry>
-        <entry>writ</entry>
         <entry>action MethodUp</entry>
         <entry>.-1put=&quot;&quot;</entry>
-        <entry>action GotoNextError</entry>
-        <entry>action RunClass</entry>
         <entry>action RenameElement</entry>
         <entry>rwite</entry>
+        <entry>writ</entry>
         <entry>action GotoPreviousError</entry>
+        <entry>action GotoNextError</entry>
+        <entry>wite</entry>
         <entry>write</entry>
+        <entry>action RunClass</entry>
       </history-cmd>
       <history-expr />
       <history-input />
