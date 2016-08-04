@@ -90,6 +90,12 @@
         <mark key="." line="55" column="0" />
         <mark key="^" line="54" column="29" />
       </file>
+      <file name="X:/Dropbox/java/Amazon/src/BalanceParen.java" timestamp="1470297170329">
+        <mark key="[" line="12" column="53" />
+        <mark key="]" line="12" column="61" />
+        <mark key="." line="12" column="61" />
+        <mark key="^" line="12" column="61" />
+      </file>
       <file name="X:/Dropbox/java/Amazon/src/Graph.java" timestamp="1469810343366">
         <mark key="'" line="108" column="0" />
         <mark key="[" line="108" column="0" />
@@ -349,50 +355,70 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">PCBsZW5ndGg=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIm5vdCBiYWxhbmNlZCIpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PCBsZW5ndGg=</text>
+        <text>!</text>
       </register>
       <register name="/" type="4">
         <text>Mini</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">aWYgKHguY2hhckF0KG0gLSAxKSA9PSB5LmNoYXJBdChuIC0gMSkpIA==</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oImJhbGFuY2VkIik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKHByb2dyYW0uaW5wdXQudG9TdHJpbmcoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIm5vdCBiYWxhbmNlZCIpOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oImJhbGFuY2VkIik7Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcm9ncmFtLmlucHV0Lgo=</text>
+      <register name="3" type="4">
+        <text>*/
+public class BalanceParen {
+    boolean isBalanced(String input) {
+        return false;
+    }
+    public static void main(String args[]) {
+        BalanceParen program = new BalanceParen();
+        assert program.isBalanced(&quot;[()]{}{[()()]()}&quot;);
+        System.out.println(&quot;balanced&quot;);
+        assert !program.isBalanced(&quot;[(])&quot;);
+        System.out.println(&quot;not balanced&quot;);</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+      <register name="4" type="4">
+        <text>*/
+public class BalanceParen {
+    boolean isBalanced(String input) {
+        return false;
+    }
+    public static void main(String args[]) {
+        BalanceParen program = new BalanceParen();
+        assert program.isBalanced(&quot;[()]{}{[()()]()}&quot;);
+        System.out.println(&quot;balanced&quot;);
+        assert !program.isBalanced(&quot;[(])&quot;);
+        System.out.println(&quot;not balanced&quot;);</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50ZigiTGVuZ3RoID0gJWRcbiIsIGEubGVuZ3RoKTsK</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnQodHJ1ZSwgImhlbGxvIik7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjaGFyIGFbXSA9IG5ldyBjaGFyWzEwMF07Cg==</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgYSA9IDsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKHByb2dyYW0uaW5wdXQudG9TdHJpbmcoKSk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgKGludCBpID0gMDsgaSA8MTA7IGkrKykgewogICAgICAgICAgICBpbnQgdmFsID0gYVtpXSA9PSAnXDAnID8gMSA6IDA7CiAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRmKCIlZFxuIiwgdmFsKTsKICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpbnQgaSA9IDA7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcm9ncmFtLmlucHV0Lgo=</text>
       </register>
       <register name=":" type="4">
-        <text>write</text>
+        <text>action RunClass</text>
       </register>
     </registers>
     <search>
@@ -446,8 +472,8 @@
         <entry>action GotoNextError</entry>
         <entry>action RenameElement</entry>
         <entry>action GotoPreviousError</entry>
-        <entry>action RunClass</entry>
         <entry>write</entry>
+        <entry>action RunClass</entry>
       </history-cmd>
       <history-expr />
       <history-input />
