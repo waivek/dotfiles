@@ -14,10 +14,10 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="X:/Dropbox/java/Amazon/src/MyLinkedList.java" timestamp="1469524486168">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
+      <file name="X:/Dropbox/java/Amazon/src/MyLinkedList.java" timestamp="1470377914618">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
       </file>
       <file name="X:/ExamPrep/src/sample/A.java" timestamp="1463718319006">
         <mark key="[" line="7" column="0" />
@@ -193,11 +193,12 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="X:/Dropbox/java/Amazon/raw/linkedList.txt" timestamp="1469164896802">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="^" line="4" column="0" />
-        <mark key="." line="4" column="0" />
+      <file name="X:/Dropbox/java/Amazon/raw/linkedList.txt" timestamp="1470377575956">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="1" />
+        <mark key="^" line="8" column="0" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/HelloWorld/src/com/company/asfdas.java" timestamp="1456393882424">
         <mark key="[" line="5" column="13" />
@@ -248,7 +249,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="28" column="4" filename="$USER_HOME$/IdeaProjects/HelloWorld/src/com/company/FXDrawing.java" />
       <jump line="13" column="13" filename="$USER_HOME$/IdeaProjects/HelloWorld/src/com/company/CalculatorFX.java" />
       <jump line="18" column="23" filename="$USER_HOME$/IdeaProjects/HelloWorld/src/com/company/CalculatorFX.java" />
       <jump line="29" column="20" filename="$USER_HOME$/IdeaProjects/HelloWorld/src/com/company/CalculatorClient.java" />
@@ -348,6 +348,7 @@
       <jump line="28" column="22" filename="X:/Dropbox/java/Amazon/src/BalanceParen.java" />
       <jump line="21" column="19" filename="X:/Dropbox/java/Amazon/src/BalanceParen.java" />
       <jump line="8" column="19" filename="X:/Dropbox/java/Amazon/src/StringQuestions.java" />
+      <jump line="4" column="0" filename="X:/Dropbox/java/Amazon/raw/linkedList.txt" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -358,11 +359,11 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>char c = (char) System.in.read()</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="-" type="4">
-        <text>char c = (char) System.in.read()</text>
+        <text>Node</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxBcnJheUluZGV4T3V0T2ZCb3VuZHNFeGNlcHRpb25cPg==</text>
@@ -371,37 +372,37 @@
         <text>(c == '[' || c == '{' || c == '(')</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmdRdWVzdGlvbnMgbyA9IG5ldyBTdHJpbmdRdWVzdGlvbnMoKTsKICAgICAgICBvLk1hdGNoZXNQYXR0ZXJuKCJyZWRibHVlcmVkZ3JlZW5yZWQiLCAiYWJhY2EiKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB3aGlsZSAodHJ1ZSkK</text>
+        <text encoding="base64">ICAgIE5vZGUgZW5kOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBTY2FubmVyIHNjYW5uZXIgPSBuZXcgU2Nhbm5lcihTeXN0ZW0uaW4pOwo=</text>
+        <text encoding="base64">ICAgICAgICBuZXcgTm9kZSgpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzY2FubmVyLm5leHRqawo=</text>
+        <text encoding="base64">ICAgIExpbmtlZExpc3QK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpbnQgbGVuID0gMDsK</text>
+        <text encoding="base64">aW1wb3J0IGphdmEuaW8uKjsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiB0cnVlOwo=</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBMaW5rZWRMaXN0PEludGVnZXI+IGxpbmtlZExpc3QgPSBuZXcgTGlua2VkTGlzdDxJbnRlZ2VyPigpOwogICAgICAgIHRyeSB7CiAgICAgICAgICAgIFNjYW5uZXIgc2Nhbm5lciA9IG5ldyBTY2FubmVyKG5ldyBGaWxlKFBBVEgpKTsKICAgICAgICAgICAgd2hpbGUgKHNjYW5uZXIuaGFzTmV4dCgpKQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICBsaW5rZWRMaXN0LmFkZChzY2FubmVyLm5leHRJbnQoKSk7CiAgICAgICAgICAgIH0KICAgICAgICB9IGNhdGNoIChGaWxlTm90Rm91bmRFeGNlcHRpb24gZSkgewogICAgICAgICAgICBlLnByaW50U3RhY2tUcmFjZSgpOwogICAgICAgIH0KICAgICAgICBmb3IgKEludGVnZXIgaXRlbSA6IGxpbmtlZExpc3QpIHsKICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKGl0ZW0pOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>action RunClass</text>
+        <text>write</text>
       </register>
     </registers>
     <search>
@@ -452,11 +453,11 @@
         <entry>action RenameElement</entry>
         <entry>rwite</entry>
         <entry>writ</entry>
-        <entry>action GotoPreviousError</entry>
         <entry>action GotoNextError</entry>
         <entry>wite</entry>
-        <entry>write</entry>
         <entry>action RunClass</entry>
+        <entry>action GotoPreviousError</entry>
+        <entry>write</entry>
       </history-cmd>
       <history-expr />
       <history-input />
