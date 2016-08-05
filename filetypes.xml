@@ -1,5 +1,6 @@
 <application>
   <component name="FileTypeManager" version="16">
+    <ignoreFiles list="*.dyn_hi;*.dyn_o;*.hi;*.hprof;*.o;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;vssver.scc;vssver2.scc;" />
     <extensionMap>
       <mapping pattern="File" type="JAVA" />
       <mapping pattern="Comparable" type="PLAIN_TEXT" />
