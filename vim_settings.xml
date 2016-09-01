@@ -37,7 +37,7 @@
         <mark key="^" line="10" column="36" />
         <mark key="." line="9" column="29" />
       </file>
-      <file name="/a.dummy" timestamp="1469603209707">
+      <file name="/a.dummy" timestamp="1472748153821">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="9" />
         <mark key="^" line="0" column="9" />
@@ -132,6 +132,12 @@
         <mark key="." line="86" column="44" />
         <mark key="^" line="86" column="44" />
       </file>
+      <file name="$USER_HOME$/Desktop/CategoryTheory/src/Introduction.java" timestamp="1472749345347">
+        <mark key="[" line="10" column="38" />
+        <mark key="]" line="10" column="37" />
+        <mark key="." line="10" column="37" />
+        <mark key="^" line="10" column="37" />
+      </file>
       <file name="X:/Dropbox/java/Amazon/src/BinaryTree.java" timestamp="1469522177936">
         <mark key="'" line="71" column="4" />
         <mark key="[" line="85" column="30" />
@@ -144,6 +150,9 @@
         <mark key="]" line="7" column="17" />
         <mark key="^" line="8" column="29" />
         <mark key="." line="7" column="17" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1472748153670">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="X:/Dropbox/java/Amazon/src/HM.java" timestamp="1472316798411">
         <mark key="[" line="9" column="0" />
@@ -382,11 +391,11 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">c3JjL19fcHljYWNoZV9fLwo=</text>
+      <register name="&quot;" type="4">
+        <text>Integer</text>
       </register>
       <register name="-" type="4">
-        <text>n</text>
+        <text>Integer</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxBcnJheUluZGV4T3V0T2ZCb3VuZHNFeGNlcHRpb25cPg==</text>
@@ -395,34 +404,34 @@
         <text>(c == '[' || c == '{' || c == '(')</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">c3JjL19fcHljYWNoZV9fLwo=</text>
+        <text encoding="base64">ICAgICAgICBJbnRlZ2VyIG0gPSA0OwogICAgICAgIGludCB4ID0gbTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBoLnJlbW92ZSgpCg==</text>
+        <text encoding="base64">ICAgICAgICBteV9hZGQgPSBvLmFkZDsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBobS5tYWluKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBteV9hZGQgPSAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgVml2ZWsgQm9zZS4KICogVGltZSAtIDIyOjE1CiAqIERhdGUgLSAyNyBBdWcgMjAxNi4KICovCg==</text>
+        <text encoding="base64">ICAgICAgICBpbnQgaSA9IDM7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoIiIpCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">ICAgICAgICBmb3IgKGludCBpID0gMDsgaSA8IGgua2V5U2V0KCkuc2l6ZSgpOyBpKyspIHsKICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGYoIiVkICVkIiwgKQogICAgICAgIH0=</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">ICAgICAgICBmb3IgKGl0ZW06IGgua2V5U2V0KCkpIHsKICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKGl0ZW0pOwogICAgICAgIH0=</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoaXRlKQo=</text>
+        <text encoding="base64">ICAgICAgICBUIHggPSAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBoLmtleVNldCgpOwo=</text>
+        <text encoding="base64">ICAgICAgICBUIHggCg==</text>
       </register>
       <register name=":" type="4">
         <text>write</text>
@@ -461,7 +470,6 @@
         <entry encoding="base64">XDxBcnJheUluZGV4T3V0T2ZCb3VuZHNFeGNlcHRpb25cPg==</entry>
       </history-search>
       <history-cmd>
-        <entry>.,.+1action MethodUp</entry>
         <entry>%s/matrix.length/numberOfNodes</entry>
         <entry>w</entry>
         <entry>wrtie</entry>
@@ -470,16 +478,17 @@
         <entry>source C:/Users/Toshiba PC/.ideavimrc</entry>
         <entry>echo &quot;Reloaded .ideavimrc&quot;</entry>
         <entry>action MethodUp</entry>
-        <entry>action RenameElement</entry>
         <entry>rwite</entry>
         <entry>writ</entry>
         <entry>action GotoNextError</entry>
         <entry>wite</entry>
         <entry>action GotoPreviousError</entry>
-        <entry>.-1put=&quot;&quot;</entry>
         <entry>action RunClass</entry>
-        <entry>action Tool_External Tools_Vim</entry>
+        <entry>.put=&quot;&quot;</entry>
         <entry>action Run</entry>
+        <entry>action Tool_External Tools_Vim</entry>
+        <entry>.-1put=&quot;&quot;</entry>
+        <entry>action RenameElement</entry>
         <entry>write</entry>
       </history-cmd>
       <history-expr />
