@@ -125,6 +125,7 @@
         <mark key="^" line="25" column="45" />
         <mark key="." line="25" column="45" />
       </file>
+      <file name="X:/ReactiveReminder/src/LiveTemplates.java" timestamp="1472747872680" />
       <file name="X:/ExamPrep/src/CanvasExample.java" timestamp="1463719666830">
         <mark key="[" line="86" column="45" />
         <mark key="]" line="86" column="44" />
@@ -209,6 +210,11 @@
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desktop/CategoryTheory/.gitignore" timestamp="1472748135441">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="X:/Dropbox/java/Amazon/raw/linkedList.txt" timestamp="1470377575956">
         <mark key="'" line="0" column="0" />
@@ -377,7 +383,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBoLnJlbW92ZSgpCg==</text>
+        <text encoding="base64">c3JjL19fcHljYWNoZV9fLwo=</text>
       </register>
       <register name="-" type="4">
         <text>n</text>
@@ -389,34 +395,34 @@
         <text>(c == '[' || c == '{' || c == '(')</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBoLnJlbW92ZSgpCg==</text>
+        <text encoding="base64">c3JjL19fcHljYWNoZV9fLwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBobS5tYWluKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBoLnJlbW92ZSgpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgVml2ZWsgQm9zZS4KICogVGltZSAtIDIyOjE1CiAqIERhdGUgLSAyNyBBdWcgMjAxNi4KICovCg==</text>
+        <text encoding="base64">ICAgICAgICBobS5tYWluKCk7Cg==</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgVml2ZWsgQm9zZS4KICogVGltZSAtIDIyOjE1CiAqIERhdGUgLSAyNyBBdWcgMjAxNi4KICovCg==</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoIiIpCg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">ICAgICAgICBmb3IgKGludCBpID0gMDsgaSA8IGgua2V5U2V0KCkuc2l6ZSgpOyBpKyspIHsKICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGYoIiVkICVkIiwgKQogICAgICAgIH0=</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">ICAgICAgICBmb3IgKGl0ZW06IGgua2V5U2V0KCkpIHsKICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKGl0ZW0pOwogICAgICAgIH0=</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoaXRlKQo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBoLmtleVNldCgpOwo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgICAgICBoLmtleVNldCgpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>write</text>
